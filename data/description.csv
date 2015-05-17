@@ -1,5 +1,7 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
 燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やさないごみ,,,img/moyasanai02.svg,#733b96
+ビン類・カン類・ペットボトル･紙類･布類･衣類,,,img/bin02.svg,#2dc7aa
+金属類,,,img/kinzokurui02.svg,#ffa500
+蛍光管・水銀柱,,,img/keikoutou02.svg,#77aa00
+プラスチック製容器・包装（資源）類,,,img/purasutikku02.svg,#007200
